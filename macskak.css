@@ -1,0 +1,32 @@
+body{
+    background-color: green;
+    color: white;
+}
+
+h1{
+    color: red ;
+    text-decoration: underline;
+}
+
+#Garfield{
+    color: rgb(255, 88, 28);
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+#Aristocats{
+    color: rgb(39, 39, 206);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+#Aslan{
+    color: orange;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+img:hover{
+    height: 800px;
+}
+
